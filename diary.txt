@@ -4,4 +4,3 @@ Step 2: Set key as 'P'
 Step 3: for each character in the FILE, then XOR it with the key 
 Step 4: print the XOR'd character this will decode the message 
 Step ..: Stop
-
